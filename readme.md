@@ -15,5 +15,5 @@
 ・ログインとアカウント登録の実装をするので手一杯だったのでメインページのアップデートには着手できてないです。<br>
 
 
-## URL 
+## URL  https://haga-yosuke.github.io/login_sql/
  
