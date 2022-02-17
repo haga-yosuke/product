@@ -39,6 +39,10 @@
             </form>
         </div>
 
+        <!-- パスワードリマインダー -->
+      
+                <a href="remaind.php" class="edit">パスワードを忘れた方はこちら</a>
+            
         <!-- 新規登録部分 -->
         <div class="control">
             <h2 style="text-align:center;margin-top: 2em;margin-bottom: 1em;" class="h1_log">

@@ -3,6 +3,8 @@
 <?php
 // dbconnect.phpを入れ込む
 require("./dbconnect.php");
+
+// コンピュータのサーバ側に一時的にデータを保存する仕組み
 session_start();
 
 if (!empty($_POST)) {

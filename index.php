@@ -15,12 +15,12 @@
 <body id="index">
 
     <header>
-        <h1>Kicks  reseach</h1>
+        <h1>X HOUND</h1>
     </header>
 
     <div id="wrap">
         <div class="content">
-            <h2>What's your favorite sneaker?</h2>
+            <h2>Capture the beautiful moment!</h2>
             <br>
             <p class="btn"><a href="top.php">ログイン</a></p>
         </div>

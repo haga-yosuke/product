@@ -10,14 +10,14 @@ html {
 }
 
 body{
-    background-color:antiquewhite;
+    background-color:rgb(224, 146, 43);
 
 }
 
 /* ヘッダー画像 */
 .header{
-    height: 400px;
-    background: url(img/kicks_box.jpeg);
+    height: 300px;
+    background: url(img/maintop.jpeg);
     background-position: center;
     background-size: cover;
 
@@ -109,7 +109,7 @@ p{
   margin-left: 700px;
 }
 
-a{
+.post{
    font-size: 25px;
     color:black;
     display: flex;
@@ -119,21 +119,15 @@ a{
   margin: 25px 0 25px 0;
 }
 
-
-.question{
-   display: flex;
-   flex-wrap: wrap;
-  justify-content: center;
+.name{
+ width: 100px;
 
 }
 
-.kicks{
-  margin-left: 20px;
-}
+.text{
+width: 500px;
+height: 400px;
 
-#kicks_img{
-  height: 200px;
-  width: 200px;
 }
 
 

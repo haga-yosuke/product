@@ -3,7 +3,7 @@
 }
 
 #index{
-    background-image: url(login_img/kicks_top3.jpeg);
+    background-image: url(start_img/camera2.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -49,6 +49,14 @@ h2 {
     margin: 0 auto;
     display: flex;
     justify-content: center;
+}
+
+.edit{
+    font-size: 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    color:black;
 }
 
 .content {

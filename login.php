@@ -47,7 +47,7 @@ if (password_verify($_POST['password'], $row['password'])) {
 /* エラーがなければ次のページへ */
 if (!isset($error)) {
     $_SESSION['join'] = $_POST;   // フォームの内容をセッションで保存
-    header('Location: input.php');   // input.phpへ移動
+    header('Location: post_read.php');   // input.phpへ移動
     exit();
 }
 

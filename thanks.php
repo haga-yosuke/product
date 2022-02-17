@@ -14,7 +14,7 @@
         <h1>会員登録が完了しました。</h1>
         <p>下のボタンよりメインページに移動してください。</p>
         <br><br>
-        <a href="input.php"><button class="btn">メインページに移動する</button></a>
+        <a href="post_read.php"><button class="btn">メインページに移動する</button></a>
     </div>
 </body>
 
